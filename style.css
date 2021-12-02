@@ -106,3 +106,26 @@ navbar-nav-right li:first-child a {
   text-align: center;
   text-decoration: none;
 }
+
+.btn-dark-outline {
+  border-color: #000;
+  color: #000;
+}
+
+.btn-dark-outline:hover {
+  background-color: rgba(0, 0, 0, 0.06);
+}
+
+.btn-light-outline {
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background-color: #333;
+}
