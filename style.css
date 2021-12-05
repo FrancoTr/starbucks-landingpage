@@ -149,7 +149,8 @@ navbar-nav-right li:first-child a {
   text-decoration: none;
 }
 
-.btn-dark-outline {
+.btn-dark-outline,
+.btn-light-outline:hover {
   border-color: #000;
   color: #000;
 }
