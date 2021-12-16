@@ -372,6 +372,10 @@ navbar-nav-right li:first-child a {
   transform: translateX(100%);
 }
 
+.no-scroll {
+  overflow: hidden;
+}
+
 @media (max-width: 768px) {
   .hamburger {
     display: block;
